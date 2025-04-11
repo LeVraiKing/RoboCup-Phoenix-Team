@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AI</folder>
+	<filename>20250411_165819.jpg</filename>
+	<path>C:\Users\augus\OneDrive\Documents\AI\20250411_165819.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4080</width>
+		<height>1884</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1096</xmin>
+			<ymin>758</ymin>
+			<xmax>1900</xmax>
+			<ymax>1508</ymax>
+		</bndbox>
+	</object>
+</annotation>
