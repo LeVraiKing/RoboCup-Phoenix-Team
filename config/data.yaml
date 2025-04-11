@@ -1,11 +1,11 @@
 # Chemin vers les images de training
-train: ./ai_training/images/train
+train: ai_training/images/train
 
 # Chemin vers les images de validation
-val: ./ai_training/images/val
+val: ai_training/images/val
 
 # Chemin vers les images de test (optionnel)
-test: .ai_training/images/test
+test: ai_training/images/test
 
 # Nombre de classes
 nc: 15  # Remplacez par le nombre de classes dans votre dataset
