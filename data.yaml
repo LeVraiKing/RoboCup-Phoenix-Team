@@ -1,14 +1,14 @@
 # Chemin vers les images de training
-train: ai_training/images/train
+train: /datasets/_deepnote_work/ia_training/train/images
 
 # Chemin vers les images de validation
-val: ai_training/images/val
+val: /datasets/_deepnote_work/ia_training/val/images
 
 # Chemin vers les images de test (optionnel)
-test: ai_training/images/test
+test: /datasets/_deepnote_work/ia_training/test/images
 
 # Nombre de classes
-nc: 15  # Remplacez par le nombre de classes dans votre dataset
+nc: 16  # Remplacez par le nombre de classes dans votre dataset
 
 # Noms des classes
 names:
