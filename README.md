@@ -1,1 +1,1 @@
-Ensemble des données de training concernant le modèle yolo utiliser pat l'équipe Phoenix du Collège Notre-Dame des Oiseaux pour la Robocup Junior
+Ensemble des données de training concernant le modèle yolo utilisé par l'équipe Phoenix du Collège Notre-Dame des Oiseaux dans le cadre de la compétition Robocup Junior
