@@ -1,0 +1,24 @@
+# Chemin vers les images de training
+train: /datasets/_deepnote_work/ia_training/train/images
+
+# Chemin vers les images de validation
+<<<<<<< HEAD
+val:  /datasets/_deepnote_work/ia_training/val/images
+=======
+val: /datasets/_deepnote_work/ia_training/val/images
+>>>>>>> 58f3df0faded2a0b271f9aab9277a3a9d131f356
+
+# Chemin vers les images de test (optionnel)
+test: /datasets/_deepnote_work/ia_training/test/images
+
+# Nombre de classes
+<<<<<<< HEAD
+nc: 1  # Remplacez par le nombre de classes dans votre dataset
+=======
+nc: 16  # Remplacez par le nombre de classes dans votre dataset
+>>>>>>> 58f3df0faded2a0b271f9aab9277a3a9d131f356
+
+# Noms des classes
+names:
+  - ball
+

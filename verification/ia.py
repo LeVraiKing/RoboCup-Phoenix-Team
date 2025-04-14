@@ -2,7 +2,7 @@ from ultralytics import YOLO
 import cv2
 
 # Chemin vers le modèle entraîné
-model_path = 'best.pt'
+model_path = 'yolo11n.pt'
 
 # Charger le modèle entraîné
 model = YOLO(model_path)
