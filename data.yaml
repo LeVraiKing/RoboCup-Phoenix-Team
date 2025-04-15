@@ -15,8 +15,6 @@ test: /datasets/_deepnote_work/ia_training/test/images
 
 nc: 1  # Remplacez par le nombre de classes dans votre dataset
 
-nc: 16  # Remplacez par le nombre de classes dans votre dataset
-
 
 # Noms des classes
 names:
